@@ -1,5 +1,8 @@
 "# G2_BATTLE_ROYAL" 
 "# G2_BATTLE_ROYAL" 
+Join Team
+
+`ขั้นตอนการใช้งาน`
 
 `git add .`
 `ใช้สำหรับเพื่มไฟล์ใหม่เข้าไปใน Project`
